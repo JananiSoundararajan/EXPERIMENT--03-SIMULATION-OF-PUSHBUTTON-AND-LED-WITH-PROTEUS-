@@ -115,7 +115,7 @@ int main(void)
 ![LED ON](https://github.com/JananiSoundararajan/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/119477549/b2960423-4efa-4911-81a8-6cfca7073a62)
 
 
-## Proteus layout(Add pdf screen shot of circuit here)
+## Proteus layout:
 ![EXP3](https://github.com/JananiSoundararajan/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/119477549/3b2c4a10-97c2-454c-9df2-3ffc7d2ed570)
 
 ## Result :
